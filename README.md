@@ -1,7 +1,7 @@
 # Election_analysis
 ## Purpose of this election audit analysis
 Tom prepard the election report for total number of vote for each candiate, the percentage of votes for each candidate, and the winner of the election. Tom usually use the excel to get the number, but this year, his boss want to use Python to get the result.
-## Election-Audit Results.
+## Election-Audit Results
 ### Total votes were cast in this congressional election
 ![total_vote](Resources/total_vote.png)
 ![total_vote1](Resources/total_vote1.png)
